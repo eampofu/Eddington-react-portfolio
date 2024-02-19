@@ -4,6 +4,7 @@ import NavigationBar from "./components/NavBar/NavigationBar";
 import Landing from "./pages/land/Landing";
 import Projects from "./pages/Projects";
 import "./index.css";
+import { library } from '@fortawesome/fontawesome-svg-core'
 
 const App = () => {
 	return (

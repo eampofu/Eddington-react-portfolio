@@ -1,4 +1,8 @@
+import ProjectsGallery from "../components/Gallery/ProjectsGallery";
+
 const Projects = () => {
-	return <h1> projects</h1>;
+	return (
+		<ProjectsGallery></ProjectsGallery>
+	)
 };
 export default Projects;

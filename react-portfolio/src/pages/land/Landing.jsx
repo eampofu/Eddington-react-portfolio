@@ -1,4 +1,5 @@
 import "./style.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import AnimatedTypingComponent from "../../components/TypeAnimation/AnimatedTypingComponent ";
 const Landing = () => {
@@ -7,7 +8,7 @@ const Landing = () => {
 	};
 	return (
 		<div
-			className="container-fluid bg-primary d-flex align-items-center mb-5 py-5"
+			className="container-fluid bg-success d-flex align-items-center mb-5 py-5"
 			id="home"
 			// style={{ minheightstyle }}
 		>
@@ -31,6 +32,17 @@ const Landing = () => {
 						<div className="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
 							<a href="" className="btn btn-outline-light mr-5">
 								Download CV
+							</a>
+						</div>
+						<div className="d-flex justify-content-center mb-4">
+							<a  href="https://github.com/eampofu">
+								{/* <i className="fab fa-github fa-2x"></i> */}
+								<img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png" alt="linkedin-logo" class="icon"/>
+							</a>
+
+							<a href="https://www.linkedin.com/in/eampofu">
+								{/* <i className="fab fa-linkedin-in fa-2x"></i> */}
+								<img src="https://img.icons8.com/doodle/100/000000/github--v1.png" alt="github-logo" class="icon"/>
 							</a>
 						</div>
 					</div>
