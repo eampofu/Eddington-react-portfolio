@@ -2,10 +2,11 @@ import { NavLink } from "react-router-dom";
 const NavigationBar = () => {
 	return (
 		<nav className="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
-			<a href="index.html" className="navbar-brand ml-lg-3">
+			<a href="#" className="navbar-brand ml-lg-3">
 				<h1 className="m-0 display-5">
-					<span className="text-primary">Eddington </span>Mpofu
+				<NavLink to="/"></NavLink><span className="text-primary">Eddington </span>Mpofu	
 				</h1>
+			
 			</a>
 			<button
 				type="button"
