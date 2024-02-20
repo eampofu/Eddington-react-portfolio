@@ -5,10 +5,10 @@ import Eddieimage from "../../assets/images/eddie.jpg";
 const Landing = () => {
 	return (
 		<div
-			className="container-fluid d-flex bg-container align-items-center mb-5 py-5 container"
+			className="container-fluid d-flex bg-container align-items-center mb-5 py-5 "
 			id="home"
 		>
-			<div className="container">
+			<div className="container ">
 				<div className="row align-items-center">
 					<div className="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
 						<img

@@ -58,7 +58,7 @@ const ContactMe = () => {
 								</div>
 								<div>
 									<button
-										className="btn btn-outline-primary"
+										className="btn btn-outline-warning"
 										type="submit"
 										id="sendMessageButton"
 									>

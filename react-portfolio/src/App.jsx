@@ -1,10 +1,10 @@
-import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import NavigationBar from "./components/NavBar/NavigationBar";
 import Landing from "./pages/land/Landing";
 import Projects from "./pages/Projects";
 import Contact from "./pages/ContactPage/Contact";
 import ContactMe from "./components/ContactMe/ContactMe";
+import Footer from "./components/Footer";
 import "./index.css";
 
 const App = () => {
@@ -18,6 +18,7 @@ const App = () => {
 				<Route path="contact" element={<Contact />} />
 				<Route path="contact" element={<ContactMe />} />
 			</Routes>
+      <Footer></Footer>
 		</Router>
 	);
 };
