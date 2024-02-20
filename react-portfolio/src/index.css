@@ -4049,14 +4049,14 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link.disabled {
-  color: #6c757d;
+  color: #660066;
   background-color: transparent;
   border-color: transparent;
 }
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #660066;
   background-color: #ffffff;
   border-color: #dee2e6 #dee2e6 #ffffff;
 }
@@ -4074,7 +4074,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #0BCEAF;
+  background-color: #660066;
 }
 
 .nav-fill > .nav-link,
@@ -9897,14 +9897,12 @@ code {
     monospace;
 }
 
-/* my added css */
+/* my custom css */
 *  {
    
   font-family: 'Shadows Into Light', cursive;
   box-sizing: border-box;
 }
-
-/* @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap'); */
 
 p {
   font-size: 22px;
@@ -10122,4 +10120,22 @@ h1 {
     margin: auto 50%; 
   }
   
+}
+.nav-class ,.nav-link:hover {
+  color: #660066;
+}
+.tag-underline{
+  text-decoration: none;
+}
+
+.container{
+  padding:100px;
+}
+.bg-container{
+ 
+  /* background-image: linear-gradient(to top right, rgba(81, 81, 232, 0.965), rgb(26, 7, 56)); */
+  background-image: linear-gradient(to top right, rgba(11, 11, 250, 0.19), rgb(26, 7, 90));
+}
+.projects-bg{
+  background-image: linear-gradient(to top right, rgba(11, 11, 250, 0.19), rgb(26, 7, 90));
 }

@@ -2,8 +2,8 @@
     {
       "id": 1,
       "name": "Weather Dashboard",
-      "image": "./images/image-3.png",
-      "github": "https://github.com/eampofu/weather-dashboard",
+      "image": "https://github.com/eampofu/weather-dashboard/raw/main/assets/images/image-3.png",
+      "github": "https://github.com/eampofu/weather-dashboard/",
       "deployedapp": "https://eampofu.github.io/weather-dashboard/",
       "description": " a dashboard that displays the weather for a given city over a 5 day period. the dashboard display's current / today's weather in the bigsection and future weather is shown at the bottom. This data is being collected from a weather API.",
       "skills": "JavaScript | jQuery | API | DOM"
@@ -11,17 +11,17 @@
      
       {
       "id": 2,
-      "name": "Password-Generator",
-      "image": "https://github.com/eampofu/Password-Generator/raw/master/assets/images/screenshot.png",
+      "name": "Password Generator",
+      "image": "https://github.com/eampofu/Password-Generator/raw/main/assets/image.png",
       "github": "https://github.com/eampofu/Password-Generator",
-      "deployedapp": "https://eampofu.github.io/Password-Generator//",
+      "deployedapp": "https://eampofu.github.io/Password-Generator/",
       "description": " javascript to create a password generator when a button is clicked",
       "skills": "JavaScript | HTML | CSS |"
       },
       {
       "id": 3,
       "name": "Team-Profile-Generator",
-      "image": "https://github.com/eampofu/Team-Profile-Generator/blob/main/assets/image.png",
+      "image": "https://github.com/eampofu/Team-Profile-Generator/raw/main/assets/image.png",
       "github": "https://github.com/eampofu/Team-Profile-Generator",
       "deployedapp": "N/A",
       "description": "This is an application that uses node.js to generate a Team profile html file using Object oriented programming (OOP).It makes use of the inquirer package to prompt questions and the jest",
@@ -31,10 +31,30 @@
       {
       "id": 4,
       "name": "Work Day Scheduler",
-      "image": "https://github.com/eampofu/work-day-scheduler/raw/master/assets/images/calender-shot.png",
+      "image": "https://github.com/eampofu/work-day-scheduler/raw/main/assets/images/image.png",
       "github": "https://github.com/eampofu/work-day-scheduler",
       "deployedapp": "https://eampofu.github.io/work-day-scheduler/",
       "description": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
       "skills": "JavaScript | jQuery | API | DOM"
-      }
+      },
+      {
+        "id": 5,
+        "name": "Bootstrap Portfolio",
+        "image": "https://github.com/eampofu/Bootstrap-Portfolio/raw/main/image-3.png",
+        "github": "https://github.com/eampofu/Bootstrap-Portfolio",
+        "deployedapp": "https://eampofu.github.io/bootstrap-portfolio/",
+        "description": "This is website portfolio designed to showcase my Front-End-Web development skills.",
+        "skills": "HTML5 | Bootstrap | CSS3 | GitHub | Git"
+        
+        },
+        {
+          "id": 6,
+          "name": "CodeQuiz",
+          "image": "https://github.com/eampofu/Code-Quiz/raw/main/assets/images/image.png",
+          "github": "https://github.com/eampofu/Code-Quiz",
+          "deployedapp": "https://eampofu.github.io/Code-Quiz/",
+          "description": "This is a simple timed quiz game that allows a user to answer a set of 10 questions on javascript in 60 seconds. The scores are saved and the user can see the scores.",
+          "skills": "HTML5 | Bootstrap | CSS3 | JavaScript | Git"
+          
+          }
   ]
