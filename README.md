@@ -20,7 +20,7 @@ The user should clone the repository from GitHub and install dependencies. To ru
 This application will allow users view a brief summary of my work and my resume.<br>
 Please view deployed application on [Git Hub Pages](https://eampofu.github.io/Eddington-react-portfolio/)<br>
 
-![screenshot](./react-portfolio/src/assets/images/screenshot.png)
+![screenshot](./src/assets/images/screenshot.png)
 ## License 
 This project is license under MIT
 
