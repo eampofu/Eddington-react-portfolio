@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import NavigationBar from "./components/NavBar/NavigationBar";
 import Landing from "./pages/land/Landing";
 import Projects from "./pages/Projects";
@@ -13,12 +13,11 @@ const App = () => {
 			<NavigationBar />
 			<Routes>
 				<Route path="/" element={<Landing />} />
-
 				<Route path="projects" element={<Projects />} />
 				<Route path="contact" element={<Contact />} />
 				<Route path="contact" element={<ContactMe />} />
 			</Routes>
-      <Footer></Footer>
+			<Footer></Footer>
 		</Router>
 	);
 };

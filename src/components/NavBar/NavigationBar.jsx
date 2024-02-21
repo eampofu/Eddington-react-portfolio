@@ -8,10 +8,8 @@ const NavigationBar = () => {
 				id="main-nav"
 				className="navbar fixed-top shadow-sm navbar-expand-lg bg-primary  navbar-light py-3 py-lg-0 px-lg-5"
 			>
-			
 				<Link className="navbar-brand ml-lg-3" to="/">
 					<h1 className="m-0 display-5">
-						
 						<span className="text-info">Portfolio </span>
 					</h1>
 				</Link>
@@ -30,7 +28,6 @@ const NavigationBar = () => {
 								Home
 							</NavLink>
 						</a>
-
 						<a href="#projects" className="nav-item nav-link text-white">
 							<NavLink to="projects" style={{ textDecoration: "none" }}>
 								Projects
@@ -42,7 +39,6 @@ const NavigationBar = () => {
 							</NavLink>
 						</a>
 					</div>
-
 					<a
 						href={Resume}
 						className="btn btn-outline-warning rounded-3"
