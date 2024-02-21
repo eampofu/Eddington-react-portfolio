@@ -33,7 +33,7 @@
       "name": "Work Day Scheduler",
       "image": "https://github.com/eampofu/work-day-scheduler/raw/main/assets/images/image.png",
       "github": "https://github.com/eampofu/work-day-scheduler",
-      "deployedapp": "https://eampofu.github.io/work-day-scheduler/",
+      "deployedapp": "https://eampofu.github.io/Work-Day-Scheduler/",
       "description": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
       "skills": "JavaScript | jQuery | API | DOM"
       },
@@ -42,7 +42,7 @@
         "name": "Bootstrap Portfolio",
         "image": "https://github.com/eampofu/Bootstrap-Portfolio/raw/main/image-3.png",
         "github": "https://github.com/eampofu/Bootstrap-Portfolio",
-        "deployedapp": "https://eampofu.github.io/bootstrap-portfolio/",
+        "deployedapp": "https://eampofu.github.io/Bootstrap-Portfolio/",
         "description": "This is website portfolio designed to showcase my Front-End-Web development skills.",
         "skills": "HTML5 | Bootstrap | CSS3 | GitHub | Git"
         
