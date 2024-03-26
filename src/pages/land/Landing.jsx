@@ -28,22 +28,22 @@ const Landing = () => {
 						</div>
 
 						<div className="d-flex justify-content-center mb-4">
-							<a href="https://github.com/eampofu">
+							<a href="https://www.linkedin.com/in/eampofu">
 								<img
 									src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png"
 									alt="linkedin-logo"
 									className="icon"
 								/>
 							</a>
-
-							<a href="https://www.linkedin.com/in/eampofu">
+							<a href="https://github.com/eampofu">
 								<img
 									src="https://img.icons8.com/doodle/100/000000/github--v1.png"
 									alt="github-logo"
 									className="icon"
 								/>
 							</a>
-							<a href="mailto:ampofu@gmail.com">
+
+							<a href="mailto:eampofu@gmail.com">
 								<img
 									src="https://img.icons8.com/doodle/120/000000/new-post.png"
 									alt="mail-logo"
